@@ -30,6 +30,10 @@ ul{
   color: #ffffff;
 }
 
+.button_1:hover{
+  cursor: pointer;
+  background: #d73a0e;
+}
 
 .dark{
   padding: 15px;
@@ -210,6 +214,15 @@ footer{
   position: relative;
   top: -5px;
 }
+
+
+.stickers{
+  color: #ffffff;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
 /*Media Queries*/
 
 @media(max-width: 768px){
