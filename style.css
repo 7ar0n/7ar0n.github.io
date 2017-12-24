@@ -14,6 +14,11 @@ body{
   overflow: hidden;
 }
 
+
+.stick{
+  height: 100px;
+}
+
 ul{
   padding: 0;
   margin: 0;
@@ -144,7 +149,7 @@ header a:hover{
 
 
 #boxes{
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 #boxes .box{
@@ -152,6 +157,7 @@ header a:hover{
   text-align: center;
   width: 30%;
   padding: 10px;
+  margin-bottom: 50px;
 }
 
 
